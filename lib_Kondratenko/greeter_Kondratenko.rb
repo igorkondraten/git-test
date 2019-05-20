@@ -8,3 +8,5 @@ class Greeter
 end
 
 class Greeter2
+
+class Greeter3
